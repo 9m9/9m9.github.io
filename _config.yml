@@ -5,7 +5,7 @@ name: Unknown Blog
 
 baseurl: ""
 
-timezone: "Asia/Beijing"
+timezone: "Asia/Shanghai"
 paginate: 10
 
 author:
