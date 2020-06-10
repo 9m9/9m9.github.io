@@ -1,0 +1,14 @@
+theme: jekyll-theme-hacker
+
+title: Unknown Blog
+name: Unknown Blog
+
+baseurl: ""
+
+timezone: "Asia/Shanghai"
+paginate: 10
+
+author:
+  name: 9m9
+  github: 9m9
+  location: Beijing (China)
