@@ -5,7 +5,7 @@ date: 		2020-06-14 11:58:07 +0800
 categories:	algorithm uva
 ---
 
-{% highlight cpp linenos %}
+{% highlight cpp %}
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
